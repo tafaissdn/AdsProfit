@@ -1,0 +1,12 @@
+{
+"open":{
+"Ads": "admob",
+"AdmobBanner" : "",
+"AdmobInters" : "",
+"AdmobNative" : "" ,
+
+"MaxBanner" : "",
+"MaxInters" : "",
+"MaxNative" : "" 
+}
+}
